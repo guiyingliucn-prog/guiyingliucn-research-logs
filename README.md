@@ -1,3 +1,2 @@
 # guiyingliucn-research-logs
-Test_1
-Test_2
+ad8201e64f69d804ac18bbea3ea79cec62978ae59ff25ae4c3ffefeb4298ca86  mypaper_kant.pdf
